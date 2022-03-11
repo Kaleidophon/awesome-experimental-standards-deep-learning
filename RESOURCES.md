@@ -31,6 +31,7 @@ We split up Table 1 from the paper into section specific resources below.
 | BayesianTestML | As baycomp, but also including Julia and R implementations. | [Link](https://github.com/BayesianTestsML/tutorial/) / [Paper](https://jmlr.org/papers/volume18/16-305/16-305.pdf) | 
 | deep-significance | Python package implementing the ASO test by Dror et al. (2019) and other utilities. | [Link](https://github.com/Kaleidophon/deep-significance) |
 | HyBayes | Python package implementing a variety of frequentist and Bayesian significance tests. | [Link](https://github.com/allenai/HyBayes) |
+| pingouin | Python package implementing various parametric and non-parametric statistical tests. | [Link](https://github.com/raphaelvallat/pingouin) / [Paper](https://web.archive.org/web/20190429060332id_/https://www.theoj.org/joss-papers/joss.01026/10.21105.joss.01026.pdf) |
 | Protocol buffers | Data structure for model predictions | [Link](https://developers.google.com/protocol-buffers/) |
 
 ### Publication
