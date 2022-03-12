@@ -39,6 +39,7 @@ We split up Table 1 from the paper into section specific resources below.
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
 | dlpd | Computer science bibliography to find correct versions of papers. | [Link](https://dblp.org/) | 
+| impact | Online calculator of carbon emissions based on GPU type | [Link](https://github.com/mlco2/impact) / [Paper](https://arxiv.org/pdf/1910.09700.pdf) |
 | Google scholar | Scientific publication search engine. | [Link](https://scholar.google.com/) |
 | Semantic Scholar | Scientific publication search engine. | [Link](https://www.semanticscholar.org) |
 | rebiber | Python tool to check and normalize the bib entries to the official published versions of the cited papers. | [Link](https://github.com/yuchenlin/rebiber) |
