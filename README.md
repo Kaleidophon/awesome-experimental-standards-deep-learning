@@ -25,4 +25,18 @@ following way:
 
 ### :jigsaw: Contributing
 
-@TODO
+Contributing can come in two forms: Opening an issue to correct mistakes or improve the existing content, or adding new
+content by opening pull requests.
+
+When opening an issue, please label the issue accordingly:
+* `enhancement-resources` for issues improving or correcting entries in [RESOURCES.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/RESOURCES.md).
+* `enhancement-standards` for issues improving or correcting entries in [CHECKLIST.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CHECKLIST.md).
+* `duplicate` for indicating duplicate entries.
+* `general` for general questions / issues with the repository.
+
+To contribute and add new content, please first check the [CONTRIBUTING.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CONTRIBUTING.md)
+file and read the contributing guideline before opening a pull request. Use the label 
+* `enhancement-resources` for pull requests adding new resources and 
+* `enhancement-standards` for pull requests adding new points to the checklist.
+
+The pull request template can be checked under [PULL_REQUEST_TEMPLATE.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
