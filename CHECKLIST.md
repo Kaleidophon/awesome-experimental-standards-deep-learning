@@ -1,9 +1,9 @@
-## Checklist - Best Practices
+## :heavy_check_mark: Checklist - Best Practices
 
 Required actions are written in bold, other actions are recommended. Not all actions might apply to every research
 project.
 
-### Data
+### :bar_chart: Data
 
 - [ ] **Draw conclusions while considering dataset and experiment limitations**
 - [ ] **Document task adequacy, representativeness and pre-processing**
@@ -12,7 +12,7 @@ project.
 - [ ] Publish the dataset accessibly & indicate changes
 - [ ] Be aware of the score differences required to claim significance
 
-### Codebase & Models
+### :computer: Codebase & Models
 
 - [ ] **Use a code repository (e.g. git) with proper documentation including licensing to distribu tecode for replicability** 
 - [ ] **Report all details about hyperparameter search and model training**
@@ -21,13 +21,13 @@ project.
 - [ ] Use efficient hyperparameter optimization methods
 - [ ] Use of model cards
 
-### Experiments & Analysis
+### :microscope: Experiments & Analysis
 
 - [ ] **Report mean & standard deviation over multiple runs**
 - [ ] **Perform significance testing or Bayesian analysis and motivate your choice of method**
 - [ ] **Carefully reflect on the amount of evidence regarding your initial hypotheses**
 
-### Publication 
+### :page_facing_up: Publication 
 
 - [ ] **Guarantee the replicability of experiments** 
 - [ ] **Discuss the potential ethical & social impact**

@@ -2,7 +2,7 @@
 
 We split up Table 1 from the paper into section specific resources below.
 
-### Data
+### :bar_chart: Data
 
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
@@ -11,7 +11,7 @@ We split up Table 1 from the paper into section specific resources below.
 | LINDAT/CLARIN | Open access to language resources and other data and services for the support of research in digital humanities and social sciences. | [Link](https://lindat.cz/) [Paper](https://pure.mpg.de/rest/items/item_60744_3/component/file_60745/content) |
 | Zenodo | General-purpose open-access repository for research papers, data sets, research software,reports, and any other research related digital artifacts. | [Link](https://zenodo.org/) |
 
-### Codebase & Model
+### :computer: Codebase & Model
 
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
@@ -23,7 +23,7 @@ We split up Table 1 from the paper into section specific resources below.
 | Pipenv | Virtual environment for managing Python packages. | [Link](https://pipenv.pypa.io/en/latest/) |
 | Virtualenv | Tool to create isolated Python environments. | [Link](https://virtualenv.pypa.io/en/latest/) | 
 
-### Experiments & Analysis
+### :microscope: Experiments & Analysis
 
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
@@ -34,7 +34,7 @@ We split up Table 1 from the paper into section specific resources below.
 | pingouin | Python package implementing various parametric and non-parametric statistical tests. | [Link](https://github.com/raphaelvallat/pingouin) / [Paper](https://web.archive.org/web/20190429060332id_/https://www.theoj.org/joss-papers/joss.01026/10.21105.joss.01026.pdf) |
 | Protocol buffers | Data structure for model predictions | [Link](https://developers.google.com/protocol-buffers/) |
 
-### Publication
+### :page_facing_up: Publication
 
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |

@@ -16,13 +16,13 @@ replicability.
 In [CHANGELOG.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CHANGELOG.md),
 we transparently document changes to the repository and versioning. The current version is v0.1. 
 
-### Citing 
+### :mortar_board: Citing 
 
 If you find the resources helpful or are using the checklist for one of your academic projects, please cite us in the 
 following way:
 
 @TODO
 
-### Contributing
+### :jigsaw: Contributing
 
 @TODO
