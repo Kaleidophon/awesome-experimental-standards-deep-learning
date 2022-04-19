@@ -1,7 +1,7 @@
 ## Experimental Standards for Deep Learning Research: 
 ### A Natural Language Processing Perspective
 
-This repository contains supplementary material from our paper of the same title. Since our paper can only capture the 
+This repository contains supplementary material from [our paper of the same title](https://arxiv.org/abs/2204.06251). Since our paper can only capture the 
 state of affairs at the time of publication, the idea here is to keep a more up-to-date version of the resources in the 
 appendix here, and invite the community to collaborate in a transparent manner.
 
@@ -21,7 +21,12 @@ we transparently document changes to the repository and versioning. The current 
 If you find the resources helpful or are using the checklist for one of your academic projects, please cite us in the 
 following way:
 
-@TODO
+    @article{ulmer2022experimental,
+      title={Experimental Standards for Deep Learning Research: A Natural Language Processing Perspective},
+      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike and Hardmeier, Christian and Plank, Barbara},
+      journal={arXiv preprint arXiv:2204.06251},
+      year={2022}
+    }
 
 ### :jigsaw: Contributing
 
