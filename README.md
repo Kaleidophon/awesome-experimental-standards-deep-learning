@@ -15,6 +15,40 @@ replicability.
 In [CHANGELOG.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CHANGELOG.md),
 we transparently document changes to the repository and versioning. The current version is v0.1. 
 
+### :mortar_board: Citing 
+
+If you find the resources helpful or are using the checklist for one of your academic projects, please cite us in the 
+following way:
+
+    @article{ulmer2022experimental,
+      title={Experimental Standards for Deep Learning Research: A Natural Language Processing Perspective},
+      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike and Hardmeier, Christian and Plank, Barbara},
+      journal={arXiv preprint arXiv:2204.06251},
+      year={2022}
+    }
+
+In your paper, you could cite our work for instance as follows:
+
+    For our experimental design, we follow many of the guidelines laid out by \citet{{ulmer2022experimental}.
+
+### :jigsaw: Contributing
+
+Contributing can come in two forms: Opening an issue to correct mistakes or improve the existing content, or adding new
+content by opening pull requests.
+
+When opening an issue, please label the issue accordingly:
+* `enhancement-resources` for issues improving or correcting entries in [RESOURCES.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/RESOURCES.md).
+* `enhancement-standards` for issues improving or correcting entries in [CHECKLIST.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CHECKLIST.md).
+* `duplicate` for indicating duplicate entries.
+* `general` for general questions / issues with the repository.
+
+To contribute and add new content, please first check the [CONTRIBUTING.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CONTRIBUTING.md)
+file and read the contributing guideline before opening a pull request. Use the label 
+* `enhancement-resources` for pull requests adding new resources and 
+* `enhancement-standards` for pull requests adding new points to the checklist.
+
+The pull request template can be checked under [PULL_REQUEST_TEMPLATE.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
+
 ## Resources 
 
 We split up Table 1 from the paper into section specific resources below.
@@ -60,35 +94,3 @@ We split up Table 1 from the paper into section specific resources below.
 | Google scholar | Scientific publication search engine. | [Link](https://scholar.google.com/) |
 | Semantic Scholar | Scientific publication search engine. | [Link](https://www.semanticscholar.org) |
 | rebiber | Python tool to check and normalize the bib entries to the official published versions of the cited papers. | [Link](https://github.com/yuchenlin/rebiber) |
-
-
-
-### :mortar_board: Citing 
-
-If you find the resources helpful or are using the checklist for one of your academic projects, please cite us in the 
-following way:
-
-    @article{ulmer2022experimental,
-      title={Experimental Standards for Deep Learning Research: A Natural Language Processing Perspective},
-      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike and Hardmeier, Christian and Plank, Barbara},
-      journal={arXiv preprint arXiv:2204.06251},
-      year={2022}
-    }
-
-### :jigsaw: Contributing
-
-Contributing can come in two forms: Opening an issue to correct mistakes or improve the existing content, or adding new
-content by opening pull requests.
-
-When opening an issue, please label the issue accordingly:
-* `enhancement-resources` for issues improving or correcting entries in [RESOURCES.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/RESOURCES.md).
-* `enhancement-standards` for issues improving or correcting entries in [CHECKLIST.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CHECKLIST.md).
-* `duplicate` for indicating duplicate entries.
-* `general` for general questions / issues with the repository.
-
-To contribute and add new content, please first check the [CONTRIBUTING.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/CONTRIBUTING.md)
-file and read the contributing guideline before opening a pull request. Use the label 
-* `enhancement-resources` for pull requests adding new resources and 
-* `enhancement-standards` for pull requests adding new points to the checklist.
-
-The pull request template can be checked under [PULL_REQUEST_TEMPLATE.md](https://github.com/Kaleidophon/experimental-standards-deep-learning-research/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
