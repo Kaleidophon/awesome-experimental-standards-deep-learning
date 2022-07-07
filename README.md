@@ -29,7 +29,7 @@ following way:
 
 In your paper, you could cite our work for instance as follows:
 
-    For our experimental design, we follow many of the guidelines laid out by \citet{{ulmer2022experimental}.
+    For our experimental design, we follow many of the guidelines laid out by \citet{ulmer2022experimental}.
 
 ### :jigsaw: Contributing
 
