@@ -54,7 +54,7 @@ def peer():
 
 
 def plot_nlp_venues():
-    nlp_venues = ["EMNLP", "TACL", "CL", "CoNLL", "NAACL", "EACL", "ACL", "COLING"]
+    nlp_venues = ["EMNLP", "EMNLP Findings", "TACL", "CL", "CoNLL", "NAACL", "EACL", "ACL", "COLING"]
 
     # This is extra data I just researched manually through https://aclanthology.org/events/
     extra_data = {
@@ -64,6 +64,12 @@ def plot_nlp_venues():
         },
         "EMNLP": {
             21: 848,
+            22: 840
+        },
+        "EMNLP Findings": {
+            20: 447,
+            21: 419,
+            22: 450
         },
         "CL": {
             21: 29
@@ -82,11 +88,13 @@ def plot_nlp_venues():
             22: 657
         },
         "COLING": {
+            22: 634
         }
     }
     colors_and_markers = {
         "ACL": ("firebrick", "o"),
         "EMNLP": ("forestgreen", "^"),
+        "EMNLP Findings": ("limegreen", "^"),
         "CL": ("darkorange", "8"),
         "TACL": ("darkorchid", "s"),
         "CoNLL": ("darkturquoise", "*"),
@@ -117,6 +125,7 @@ def plot_nlp_venues():
             num_venue_publications = len(json.load(f))
             num_publications[venue][int(year) - first_year] = num_venue_publications
 
+    for venue in nlp_venues:
         for year, num_venue_publications in extra_data[venue].items():
             num_publications[venue][year - first_year] = num_venue_publications
 
@@ -134,11 +143,11 @@ def plot_nlp_venues():
         )
 
     ax.set_title(f'Development of NLP Publications (20{first_year}-20{last_year})', fontsize=16, alpha=0.6)
-    ax.set_ylabel("Publications", fontsize=14, alpha=0.6)
-    ax.set_xlabel("Year", fontsize=14, alpha=0.6)
-    plt.legend(loc="upper left", ncol=2, fontsize=14)
-    plt.yticks(fontsize=14)
-    plt.xticks(x, fontsize=14)
+    ax.set_ylabel("Publications", fontsize=12, alpha=0.6)
+    ax.set_xlabel("Year", fontsize=12, alpha=0.6)
+    plt.legend(loc="upper left", ncol=2, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xticks(x, fontsize=12)
     plt.setp(ax.get_xticklabels(), rotation=45, ha="center")
     plt.tight_layout()
     #plt.show()
@@ -149,5 +158,3 @@ if __name__ == "__main__":
     #timeline()
     #peer()
     plot_nlp_venues()
-
-

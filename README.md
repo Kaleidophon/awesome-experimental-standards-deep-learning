@@ -1,5 +1,4 @@
-## Experimental Standards for Deep Learning Research: 
-### A Natural Language Processing Perspective
+## Experimental Standards for Deep Learning in Natural Language Processing Research
 
 This repository contains supplementary material from [our paper of the same title](https://arxiv.org/abs/2204.06251). Since our paper can only capture the 
 state of affairs at the time of publication, the idea here is to keep a more up-to-date version of the resources in the 
@@ -21,8 +20,8 @@ If you find the resources helpful or are using the checklist for one of your aca
 following way:
 
     @article{ulmer2022experimental,
-      title={Experimental Standards for Deep Learning Research: A Natural Language Processing Perspective},
-      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike and Hardmeier, Christian and Plank, Barbara},
+      title={Experimental Standards for Deep Learning in Natural Language Processing Research},
+      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike, van der Goot, Rob and Hardmeier, Christian and Plank, Barbara},
       journal={arXiv preprint arXiv:2204.06251},
       year={2022}
     }
@@ -72,7 +71,7 @@ We split up Table 1 from the paper into section specific resources below.
 | codecarbon | Python package estimating and tracking carbon emission of various kind of computer programs. | [Link](https://github.com/mlco2/codecarbon) |
 | ONNX | Open format built to represent Machine Learning models. | [Link](https://onnx.ai/) |
 | Pipenv | Virtual environment for managing Python packages. | [Link](https://pipenv.pypa.io/en/latest/) |
-| Virtualenv | Tool to create isolated Python environments. | [Link](https://virtualenv.pypa.io/en/latest/) | 
+| Virtualenv | Tool to create isolated Python environments. | [Link](https://virtualenv.pypa.io/en/latest/) |
 
 ### :microscope: Experiments & Analysis
 
@@ -84,6 +83,7 @@ We split up Table 1 from the paper into section specific resources below.
 | HyBayes | Python package implementing a variety of frequentist and Bayesian significance tests. | [Link](https://github.com/allenai/HyBayes) |
 | pingouin | Python package implementing various parametric and non-parametric statistical tests. | [Link](https://github.com/raphaelvallat/pingouin) / [Paper](https://web.archive.org/web/20190429060332id_/https://www.theoj.org/joss-papers/joss.01026/10.21105.joss.01026.pdf) |
 | Protocol buffers | Data structure for model predictions | [Link](https://developers.google.com/protocol-buffers/) |
+| RankingNLPSystems | Python package to create a fair global ranking of models across multiple tasks (and eval metrics) | [Link](https://github.com/pierrecolombo/rankingnlpsystems) / [Paper](https://arxiv.org/pdf/2202.03799.pdf) | 
 
 ### :page_facing_up: Publication
 
