@@ -56,6 +56,7 @@ We split up Table 1 from the paper into section specific resources below.
 
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
+| Data Version Control (DVC) | Command line tool to version datasets and models | [Link](https://github.com/iterative/dvc) / [Paper](https://mcis.cs.queensu.ca/publications/2021/saner.pdf) |
 | HuggingFace datasets | Hub to store and share (NLP) data set. | [Link](https://huggingface.co/datasets) / [Paper](https://arxiv.org/pdf/2109.02846.pdf) |
 | European Language Resources Association | Public institution for language and evaluation resources. | [About](http://www.elra.info/en/about/) / [Link](http://catalogue.elra.info/en-us/) |
 | LINDAT/CLARIN | Open access to language resources and other data and services for the support of research in digital humanities and social sciences. | [Link](https://lindat.cz/) [Paper](https://pure.mpg.de/rest/items/item_60744_3/component/file_60745/content) |
