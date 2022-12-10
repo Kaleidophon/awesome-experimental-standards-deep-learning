@@ -57,7 +57,7 @@ We split up Table 1 from the paper into section specific resources below.
 | Name | Description | Link / Reference |
 |:----- |:----- |:----- |
 | Data Version Control (DVC) | Command line tool to version datasets and models | [Link](https://github.com/iterative/dvc) / [Paper](https://mcis.cs.queensu.ca/publications/2021/saner.pdf) |
-| HuggingFace datasets | Hub to store and share (NLP) data set. | [Link](https://huggingface.co/datasets) / [Paper](https://arxiv.org/pdf/2109.02846.pdf) |
+| Hugging Face datasets | Hub to store and share (NLP) data set. | [Link](https://huggingface.co/datasets) / [Paper](https://arxiv.org/pdf/2109.02846.pdf) |
 | European Language Resources Association | Public institution for language and evaluation resources. | [About](http://www.elra.info/en/about/) / [Link](http://catalogue.elra.info/en-us/) |
 | LINDAT/CLARIN | Open access to language resources and other data and services for the support of research in digital humanities and social sciences. | [Link](https://lindat.cz/) [Paper](https://pure.mpg.de/rest/items/item_60744_3/component/file_60745/content) |
 | Zenodo | General-purpose open-access repository for research papers, data sets, research software,reports, and any other research related digital artifacts. | [Link](https://zenodo.org/) |
@@ -82,6 +82,7 @@ We split up Table 1 from the paper into section specific resources below.
 | BayesianTestML | As baycomp, but also including Julia and R implementations. | [Link](https://github.com/BayesianTestsML/tutorial/) / [Paper](https://jmlr.org/papers/volume18/16-305/16-305.pdf) | 
 | deep-significance | Python package implementing the ASO test by Dror et al. (2019) and other utilities. | [Link](https://github.com/Kaleidophon/deep-significance) |
 | HyBayes | Python package implementing a variety of frequentist and Bayesian significance tests. | [Link](https://github.com/allenai/HyBayes) |
+| Hugging Face evaluate | Library that implements standardized versions of evaluation metrics and significance tests | [Link](https://huggingface.co/docs/evaluate/index) | 
 | pingouin | Python package implementing various parametric and non-parametric statistical tests. | [Link](https://github.com/raphaelvallat/pingouin) / [Paper](https://web.archive.org/web/20190429060332id_/https://www.theoj.org/joss-papers/joss.01026/10.21105.joss.01026.pdf) |
 | Protocol buffers | Data structure for model predictions | [Link](https://developers.google.com/protocol-buffers/) |
 | RankingNLPSystems | Python package to create a fair global ranking of models across multiple tasks (and eval metrics) | [Link](https://github.com/pierrecolombo/rankingnlpsystems) / [Paper](https://arxiv.org/pdf/2202.03799.pdf) | 
