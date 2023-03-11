@@ -80,6 +80,7 @@ We split up Table 1 from the paper into section specific resources below.
 |:----- |:----- |:----- |
 | baycomp | Python implementation of Bayesian tests for the comparison of classifiers. | [Link](https://github.com/janezd/baycomp) / [Paper](https://jmlr.org/papers/volume18/16-305/16-305.pdf) | 
 | BayesianTestML | As baycomp, but also including Julia and R implementations. | [Link](https://github.com/BayesianTestsML/tutorial/) / [Paper](https://jmlr.org/papers/volume18/16-305/16-305.pdf) | 
+| confidenceinterval | Python package that computes confidence intervals for common evaluation metrics. | [Link](https://github.com/jacobgil/confidenceinterval) |
 | deep-significance | Python package implementing the ASO test by Dror et al. (2019) and other utilities. | [Link](https://github.com/Kaleidophon/deep-significance) |
 | HyBayes | Python package implementing a variety of frequentist and Bayesian significance tests. | [Link](https://github.com/allenai/HyBayes) |
 | Hugging Face evaluate | Library that implements standardized versions of evaluation metrics and significance tests | [Link](https://huggingface.co/docs/evaluate/index) | 
