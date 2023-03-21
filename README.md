@@ -19,13 +19,25 @@ we transparently document changes to the repository and versioning. The current 
 If you find the resources helpful or are using the checklist for one of your academic projects, please cite us in the 
 following way:
 
-    @article{ulmer2022experimental,
-      title={Experimental Standards for Deep Learning in Natural Language Processing Research},
-      author={Ulmer, Dennis and Bassignana, Elisa and M{\"u}ller-Eberstein, Max and Varab, Daniel and Zhang, Mike, van der Goot, Rob and Hardmeier, Christian and Plank, Barbara},
-      journal={arXiv preprint arXiv:2204.06251},
-      year={2022}
+    @inproceedings{ulmer-etal-2022-experimental,
+    title = "Experimental Standards for Deep Learning in Natural Language Processing Research",
+    author = {Ulmer, Dennis  and
+      Bassignana, Elisa  and
+      M{\"u}ller-Eberstein, Max  and
+      Varab, Daniel  and
+      Zhang, Mike  and
+      van der Goot, Rob  and
+      Hardmeier, Christian  and
+      Plank, Barbara},
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.196",
+    pages = "2673--2692",
     }
-
+    
 In your paper, you could cite our work for instance as follows:
 
     For our experimental design, we follow many of the guidelines laid out by \citet{ulmer2022experimental}.
