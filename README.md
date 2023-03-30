@@ -84,6 +84,7 @@ We split up Table 1 from the paper into section specific resources below.
 | codecarbon | Python package estimating and tracking carbon emission of various kind of computer programs. | [Link](https://github.com/mlco2/codecarbon) |
 | ONNX | Open format built to represent Machine Learning models. | [Link](https://onnx.ai/) |
 | Pipenv | Virtual environment for managing Python packages. | [Link](https://pipenv.pypa.io/en/latest/) |
+| Releasing Research Code | Github repository including many tips and templates for releasing research code | [Link](https://github.com/paperswithcode/releasing-research-code) |
 | Virtualenv | Tool to create isolated Python environments. | [Link](https://virtualenv.pypa.io/en/latest/) |
 
 ### :microscope: Experiments & Analysis
